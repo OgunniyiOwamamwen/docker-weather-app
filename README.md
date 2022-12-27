@@ -1,6 +1,6 @@
 # docker weather app
 
-Lunch app
+Launch app
 
 ```
 docker pull owamamwen/owamamwen-weather-app:v1
